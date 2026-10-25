@@ -1,10 +1,10 @@
 {
-  "version": "1.2.24",
-  "createdAt": "2026-10-24T05:09:29Z",
+  "version": "1.2.25",
+  "createdAt": "2026-10-25T00:39:05Z",
   "minShellVersion": "1.0.0",
   "archive": {
-    "url": "https://qninth.github.io/kitchen/ota/bundle-1.2.24.tar.gz",
-    "sha256": "fc437bdfc008b825f8d271ce47fdf99bc6a306ea03bcbd7552a95f9b2f4adf1e",
-    "size": 246701
+    "url": "https://qninth.github.io/kitchen/ota/bundle-1.2.25.tar.gz",
+    "sha256": "8949ab636878da23db76cfa714ed5a0dfbf8610df22266f4a9d7a2f56c15af4c",
+    "size": 74508
   }
 }
